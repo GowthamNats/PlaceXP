@@ -1,0 +1,11 @@
+.col-md-12 {
+  margin-bottom: 40px;
+  outline-style: solid;
+  outline-color: black;
+}
+.btn {
+  align-content: center;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-bottom: 50px;
+}
